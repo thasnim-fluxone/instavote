@@ -2,6 +2,7 @@ Example Voting (Instavote) App
 =========
 
 This is for testing sample voting app
+another testing to test git rule branch rule
 
 Getting started
 ---------------
