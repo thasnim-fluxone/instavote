@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   labels:
     app: vote
-    tier: front
   name: vote
 spec:
   ports:
@@ -16,4 +15,5 @@ spec:
   selector:
     app: vote
   type: NodePort
-
+status:
+  loadBalancer: {}

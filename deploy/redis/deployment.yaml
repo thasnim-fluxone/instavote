@@ -21,4 +21,4 @@ spec:
       - image: redis:alpine
         name: redis
         resources: {}
-
+status: {}
